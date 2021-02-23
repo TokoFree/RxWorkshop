@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true'>
+    <pages>
+        <page name='Observable and Subscription'/>
+        <page name='Creating Operators'/>
+        <page name='Transforming Operators'/>
+        <page name='map'/>
+        <page name='Combining Operators'/>
+        <page name='zip'/>
+        <page name='combineLatest'/>
+        <page name='merge'/>
+        <page name='Filtering Operators'/>
+        <page name='filter'/>
+        <page name='throttle'/>
+        <page name='debounce'/>
+    </pages>
+</playground>
